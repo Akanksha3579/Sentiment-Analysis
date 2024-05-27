@@ -2,3 +2,4 @@ numpy
 scipy
 transformers
 streamlit
+torch
